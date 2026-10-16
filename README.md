@@ -15,7 +15,7 @@
 ## インストール
 
 ```bash
-git clone <このリポジトリ> ~/kdskills
+git clone git@github.com:ichiokondo007/kdskills.git ~/kdskills
 claude plugin marketplace add ~/kdskills
 claude plugin install kdskills@kdskills
 claude plugin list | grep kdskills   # kdskills@kdskills が出れば OK
