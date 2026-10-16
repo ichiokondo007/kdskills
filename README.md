@@ -18,7 +18,11 @@
 git clone <このリポジトリ> ~/kdskills
 claude plugin marketplace add ~/kdskills
 claude plugin install kdskills@kdskills
+claude plugin list | grep kdskills   # kdskills@kdskills が出れば OK
 ```
+
+マーケットプレイスは `.claude-plugin/marketplace.json` でこのリポジトリ自身を `source: "./"` として登録している。
+どちらのコマンドも Claude Code のセッション内からは実行できない(入れ子セッションの制限)。通常のシェルで実行する。
 
 ## 開発
 
