@@ -1,7 +1,7 @@
 {
   "name": "kdskills",
-  "description": "kdskills を配布する自前のマーケットプレイス",
   "owner": { "name": "ichio kon" },
+  "metadata": { "description": "kdskills を配布する自前のマーケットプレイス" },
   "plugins": [
     {
       "name": "kdskills",
