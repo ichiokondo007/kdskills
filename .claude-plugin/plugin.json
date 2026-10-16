@@ -1,0 +1,7 @@
+{
+  "name": "kdskills",
+  "version": "0.1.0",
+  "description": "AI-DLC 独自版。プロジェクト開始から要件定義・DB設計・画面設計までの工程をスキルとして束ねる",
+  "author": { "name": "ichio kon" },
+  "keywords": ["ai-dlc", "project-kickoff", "requirements", "japanese"]
+}

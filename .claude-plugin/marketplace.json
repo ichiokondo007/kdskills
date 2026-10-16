@@ -1,0 +1,12 @@
+{
+  "name": "kdskills",
+  "description": "kdskills を配布する自前のマーケットプレイス",
+  "owner": { "name": "ichio kon" },
+  "plugins": [
+    {
+      "name": "kdskills",
+      "description": "AI-DLC 独自版の工程スキル集",
+      "source": "./"
+    }
+  ]
+}
