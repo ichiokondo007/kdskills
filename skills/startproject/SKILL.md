@@ -1,5 +1,6 @@
 ---
 name: startproject
+disable-model-invocation: true
 description: >
   プロジェクトの土台を作り、プロジェクト概要書を対話で埋める。
   `/kdskills:startproject <name>` で <name>/ フォルダ、docs/、プロジェクト概要書.md を作り、
